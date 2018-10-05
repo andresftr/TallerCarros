@@ -8,4 +8,31 @@
     <string name="precio">Precio</string>
     <string name="guardar">Guardar</string>
     <string name="limpiar">Limpiar</string>
+    <string name="escogeColor">Escoge un Color...</string>
+    <string name="color1">blanco</string>
+    <string name="color2">negro</string>
+    <string name="color3">gris</string>
+    <string name="color4">rojo</string>
+    <string-array name="colores">
+        <item>@string/escogeColor</item>
+        <item>@string/color1</item>
+        <item>@string/color2</item>
+        <item>@string/color3</item>
+        <item>@string/color4</item>
+    </string-array>
+    <string name="escogeMarca">Escoge una Marca...</string>
+    <string name="marca1">Kia</string>
+    <string name="marca2">Chevrolet</string>
+    <string name="marca3">Mazda</string>
+    <string name="marca4">Ford</string>
+    <string name="marca5">BMW</string>
+    <string-array name="marcas">
+        <item>@string/escogeMarca</item>
+        <item>@string/marca1</item>
+        <item>@string/marca2</item>
+        <item>@string/marca3</item>
+        <item>@string/marca4</item>
+        <item>@string/marca5</item>
+    </string-array>
+    <string name="guardado_exitoso">Carro Guardada Exitosamente</string>
 </resources>

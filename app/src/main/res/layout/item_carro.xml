@@ -28,7 +28,7 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:id="@+id/txtPlaca"
+                    android:id="@+id/lblPlaca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -38,7 +38,7 @@
                     android:textStyle="bold" />
 
                 <TextView
-                    android:id="@+id/txtColor"
+                    android:id="@+id/lblColor"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -46,7 +46,7 @@
                     android:textAlignment="center" />
 
                 <TextView
-                    android:id="@+id/txtMarca"
+                    android:id="@+id/lblMarca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -54,7 +54,7 @@
                     android:textAlignment="center" />
 
                 <TextView
-                    android:id="@+id/txtPrecio"
+                    android:id="@+id/lblPrecio"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
