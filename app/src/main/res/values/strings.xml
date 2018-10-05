@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TallerCarros</string>
+    <string name="action_settings">Settings</string>
+    <string name="agregar">AGREGAR</string>
+    <string name="color">Color</string>
+    <string name="marca">Marca</string>
+    <string name="placa">Placa</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
